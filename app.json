@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile-marketplace",
-    "slug": "mobile-marketplace",
+    "name": "ai-travel-planner-mobile",
+    "slug": "ai-travel-planner-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
